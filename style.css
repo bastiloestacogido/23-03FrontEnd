@@ -38,9 +38,9 @@ div {
     }
 }
 div h1 {
-    font-size: 1.38rem;
-    line-height: 1.38;
-    color: rgba(255, 255, 255, 0.9);
+    font-size : 1.38rem;
+    line-height : 1.38;
+    color : rgba(255, 255, 255, 0.9);
 }
 div p {
     font-size : 1.38rem;
