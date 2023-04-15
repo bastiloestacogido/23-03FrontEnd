@@ -37,16 +37,16 @@ nav {
 
     nav a {
         padding: 1rem;
-        color: rgba(0, 0, 0, 0.75);
+        color: rgb(255, 255, 255, 0.75);
     }
 
         nav a:hover {
-            color: rgba(0, 0, 0, 1);
+            color: rgb(255, 255, 255, 1);
         }
 
         nav a.aqui {
             text-decoration: none;
-            color: rgba(0, 0, 0, 0.5);
+            color: rgb(255, 255, 255, 0.5);
         }
 
 aside {
@@ -66,5 +66,5 @@ aside {
 aside p {
     font-size: 1.38rem;
     line-height: 1.38;
-    color: rgba(0, 0, 0, 0.6);
+    color: rgb(255, 255, 255, 0.8);
 }
